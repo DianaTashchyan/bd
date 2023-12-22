@@ -1,0 +1,2 @@
+CREATE DATABASE library;
+ALTER DATABASE library OWNER TO di888na;
